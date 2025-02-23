@@ -1,3 +1,1 @@
 # SQLite
-
-## SQL in Python
